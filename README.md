@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my portfolio website built with React and Vite! I'm a Java developer who's learning the MERN stack, and this project represents my journey into web development. It's a responsive website with a clean design and features like system theme detection and dark mode toggle.
+This is my portfolio website built with React and Vite! I'm a Java developer who's learning the MERN stack, and this project represents my journey into web development. It's a responsive website with a clean design and features like system theme detection and dark mode toggle. [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://portfolio-sand-delta-92.vercel.app/)
 
 ## 🚀 Features
 
